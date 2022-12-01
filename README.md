@@ -1,5 +1,4 @@
-  
-<p align="center">  
+  <p align="center">  
   <a href="https://citel.vercel.app/">
     <img alt="secktor docs" height="300" src="https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png">
     <h1 align="center">Secktor MD Whatsapp bot</h1>
@@ -23,7 +22,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
 
   <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
-
+ 
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Method for Heroku
 ---
@@ -36,19 +35,21 @@
     <img alt="DEPLOY on Heroku" height="40" src="https://www.herokucdn.com/deploy/button.svg">
   </a>
   
-7.  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hbw5a1?referralCode=okazYt)
+7. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://secktorbot.me/koyeb)
+
+8.  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hbw5a1?referralCode=okazYt)
   
-   ## 8. Deploy in any shell including Termux [check it out.](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux) [Video Tutorial](https://youtu.be/ZgYFPWJdgms)
+   ## 9. Deploy in any [shell including Termux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)
 
-9. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
+10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
 ---
-10. More info about [Secktor](https://secktorbot.me/).
-11. Deploy tutorial [Youtube Video](https://www.youtube.com/watch?v=7YWI50BDO5o).
-12. Docs [Secktor-Docs](https://citel.vercel.app/).
+11. More info about [Secktor](https://secktorbot.me/).
+12. Deploy tutorial [Youtube Video](https://www.youtube.com/watch?v=7YWI50BDO5o).
+13. Docs [Secktor-Docs](https://citel.vercel.app/).
 
-13. SUPPORT GROUP: <a href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+14. SUPPORT GROUP: <a href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-14. Star ⭐ repo if you like Secktor.
+15. Star ⭐ repo if you like Secktor.
 ### Thanks To
 
 - [Yusuf Usta](https://github.com/yusufusta) for Ideas
